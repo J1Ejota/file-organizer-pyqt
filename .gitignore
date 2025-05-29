@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.bak
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+.env
+*.spec
+dist/
+build/
+*.exe
