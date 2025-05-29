@@ -2,7 +2,7 @@ import sys
 import os
 import ctypes
 from PyQt5 import QtWidgets, QtGui
-from organizer_pyqt import organize_directory, deshacer_ultimo_ordenamiento
+from core_logic import organize_directory, deshacer_ultimo_ordenamiento
 
 class OrganizadorArchivos(QtWidgets.QMainWindow):
     def __init__(self):
