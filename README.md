@@ -48,7 +48,7 @@ file_organizer_pyqt/
 ├── README.md
 ├── requirements.txt
 └── assets/
-└── screenshots/
+ └── screenshots/
 ```
 
 ## 👤 Author
