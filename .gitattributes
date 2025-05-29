@@ -1,4 +1,17 @@
+# Treat all Python scripts as text with LF line endings
 *.py text eol=lf
+
+# Treat Bash and shell scripts with LF as well
 *.sh text eol=lf
+
+# Treat Windows icon files and images as binary
 *.ico binary
 *.png binary
+*.jpg binary
+
+# Mark Markdown files as UTF-8 text
+*.md text
+
+# Normalize JSON and txt files
+*.json text
+*.txt text
