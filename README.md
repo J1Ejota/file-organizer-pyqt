@@ -41,13 +41,15 @@ python file_organizer_gui.py
 
 ## 📂 Project Structure
 
+```
 file_organizer_pyqt/
 ├── core_logic.py # Core file organization logic
-├── file_organizer_gui.py # PyQt GUI
+├── file_organizer_gui.py
 ├── README.md
 ├── requirements.txt
 └── assets/
-└── screenshots/ # Screenshots folder
+└── screenshots/
+```
 
 ## 👤 Author
 
